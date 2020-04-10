@@ -1,4 +1,4 @@
-#FINRA UI - Test
+# FINRA UI - Test
 
 ## Building the project
 
